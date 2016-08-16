@@ -118,9 +118,11 @@ var a = 2
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/02-const-complex.js
 
 >You want to have a timer (whether that's presented to the class is your choice. Regardless, you should also timebox how much time students will have to work on each section and mention out loud what milestones students should have crossed by a certain time
-> 
+> How much time is it going to take? YOu want to be urgent about this. If you think it's going to take 10 minutes, you want to pressure your students a bit and chug along with the lesson. I would suggest you shave 2-3 minutes off. 
 
 ### Spread operator
+
+> You want to mention how you're going to go over Spread operators next. Don't forget to mention how block scope is related to spread operator. 
 
 The spread operator `...` allows an expression to be expanded into multiple elements.
 
@@ -177,6 +179,8 @@ console.log(days)
 #### You do: Spread Practice
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/03-spread-practice.js
+
+> One thing you may want to share with students the right answer. Whiel you're circulating, you should check-in and see who got it right and have them explain it to the class. In case they're not super loud or they're not using the proper jargon, you want to rephrase what they say in order to make sure that everyone hears/understands the response. 
 
 ### Default parameters
 
