@@ -1,6 +1,5 @@
 #ES6
 
-> lkasdlaskdlfasldf
 
 ## Learning Objectives
 
@@ -96,10 +95,19 @@ var a = 2
 // throws an error
 ```
 
+> So, after a quick explanation and lecture of block scope, the instructor gives students a chance to try block scope. This quick break allows students to immediately incorporate what they just learned in order to concretize their understanding. Learning by doing. 
+> When you tell them you want students to try the block scope exercises, you want to provide very specific directions. You want to mention 1) What they have to do in terms of what actions they need to take (i.e. fill incomplete code, etc. In this case, it seems like the directions are pretty specific. You still want to read it out or rephrase any areas that might be unclear) 2) How much time they have to do this 3) Why they're doing this particular exericse (pretty straightforward in this situation. "Doing this block scope exericse will be helpful becasue...." and 4) What you'll be doing during this time. 
+
 ### You do: Block Scope Exercises
+
+> During this exercise, you want to circulate and check in with students as they're working. Ask supporting instructor to walk around and check-in with students as well. You want to provide the Emily-stamp-of-approval. Check in with how they're doing and give small pieces of feedback that will help them find the answer or tell them what they're not seeing while doing the exercise. 
+>You also want to do a 2-minute check-in. After students start working on the exercise, you want to do a quick survey of the room and check-in to see that all students are starting the exercise and they don't have any questions before they start
 
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/01-var-let-const.js
 1. https://github.com/ga-wdi-exercises/es6-exercises/blob/master/02-const-complex.js
+
+>You want to have a timer (whether that's presented to the class is your choice. Regardless, you should also timebox how much time students will have to work on each section and mention out loud what milestones students should have crossed by a certain time
+> 
 
 ### Spread operator
 
