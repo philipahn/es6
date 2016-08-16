@@ -11,6 +11,8 @@
 - Use import/export syntax with modules
 - Use deconstruction to extract values from objects and arrays
 
+> So, if teaching is a performance, you'll want to narrate what's coming up and what you're going to do next. When you're having an organic 1-1 conversation, you don't need a lot of cues. But, when you're addressing 10+ people, you want to make sure that you tell students what you're going to be doing next. As a result, you'll want to start each component with, "And now, let's move onto the lecture portion. I'm going to first talk about a brief history of JS". 
+
 ## A Brief History of JavaScript
 
 The JavaScript standard is referred to as EcmaScript.
@@ -23,6 +25,8 @@ In 2009, ES5 was finalized and it's what we've been writing in class.
 
 2015 brought ES6, published as a standard on June 17th, 2015.
 
+> Similar note as before. You want to mention "So, I'm sure you're asking, why now? Well, we're going to cover that in this next part"
+
 ### Why now?
 
 Many plugins, frameworks and modules still use ES5, as browser support for
@@ -33,12 +37,16 @@ React tutorials (and our lesson plans) have adopted the new syntax and features
 of ES6. Today is all about exploring those features and getting comfortable with
 the new syntax.
 
+> So, you're about to the demonstration, or "I Do". You're scaffolding the content and you're going to be showing students what the syntax looks like. As a result, you want to tell them this as well. "I'm now going to demonstrate blah blah blah...." Because the class should be learning from you, I would also suggest to students that they either look up at the projector screen and potentially even lower their laptop screens since it's not necessary to use them while you're showing students what the syntax looks like. 
+
+
 ## Syntax
 
 ### Block Scope
 
 The primary way to control scope in an application has been through the use
 of functions:
+
 
 ```js
 // es5
@@ -49,6 +57,9 @@ var a = 1
 })()
 console.log(a)
 ```
+
+> One thing to keep in mind is that you'll be walking through this portion for the students. You want to make sure that not only is everyone comfortable with the material, but youw ant to pace yourself. If you feel like students are getting lost, tyou want to slow it down. Think of your favorite speech-giver.When possible, you also want to try and logicailly explain why a certain function has the output that it does 
+
 
 ES6 introduces the concept of block scoping, which allows us to limit the scope
 of a variable declared with `let` to a given block `{ ... }`
@@ -159,6 +170,9 @@ function reversedDays(arr){
 console.log(reversedDays(days))
 console.log(days)
 ```
+
+> Similar note - you want to make sure that you provide directions so that students have the opportunity to digest what they need to do
+> One thing to keep in mind is building out exercises. Here, the links are pretty straightforward and you're connected to another exercise. If you feel like you don't know what you're going to do for an exercise, consult Mike or ask me and I can get in touch with a WDI instructor here. 
 
 #### You do: Spread Practice
 
